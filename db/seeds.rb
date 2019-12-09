@@ -23,6 +23,5 @@ garden_names = [
     )
     plant.garden = garden
     plant.save!
-    sleep(2)
   end
 end
